@@ -1,0 +1,10 @@
+{
+  "admin.app.insight": {
+    "component": "insight",
+    "path": "/admin/app/iotraining/insight"
+  },
+  "admin.app.management": {
+    "component": "management",
+    "path": "/admin/app/iotraining/management"
+  }
+}
